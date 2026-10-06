@@ -1,0 +1,30 @@
+#TextoComEstilo
+{ 
+color: brown;
+font-size: 1.2em;
+}
+
+
+#destaque {
+    font-weight: bold;
+    font-style: italic;
+    color: cadetblue;
+}
+
+
+#idm {
+    background: blue;
+}
+#iddois {
+    background: yellow;
+}
+#idtres {
+    background: green;
+}
+#idquatro {
+    background: orange;
+}
+.italicolinha  { 
+    font-style:italic;
+    border-bottom:solid;
+}
